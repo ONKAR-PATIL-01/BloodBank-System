@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/sop"
+        android:layout_gravity="center"/>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:layout_marginTop="100sp"
+
+    tools:context=".Home">
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Donor"
+        android:textAlignment="center"
+        android:id="@+id/bb1"
+        android:textSize="40sp"
+        />
+    <Button
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Client"
+        android:id="@+id/bb2"
+    android:textAlignment="center"
+        android:layout_marginTop="50sp"
+    android:textSize="40sp"
+    />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Admin"
+        android:id="@+id/bb3"
+        android:textAlignment="center"
+        android:layout_marginTop="50sp"
+        android:textSize="40sp"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_marginTop="50sp"
+        android:layout_height="wrap_content"
+        android:text="Blood Availability"
+        android:textAlignment="center"
+        android:id="@+id/bb4"
+        android:textSize="40sp"
+        />
+</LinearLayout>
+
+</FrameLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myapplication">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/sopp"
+        android:label="BloodBank System"
+        android:roundIcon="@mipmap/sopp"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Blood"></activity>
+        <activity android:name=".a2" />
+        <activity android:name=".a1" />
+        <activity android:name=".admin_section" />
+        <activity android:name=".Admin" />
+        <activity android:name=".client" />
+        <activity android:name=".donner" />
+        <activity android:name=".Home" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
