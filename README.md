@@ -21,7 +21,6 @@ We have following features
 ![4](https://user-images.githubusercontent.com/95852974/147569677-50790aa8-268a-4ef5-88ce-80c48be8131e.jpg)
 ![5](https://user-images.githubusercontent.com/95852974/147569682-4a738d7d-7b26-4706-bbb0-43340ef30ad4.jpg)
 ![6](https://user-images.githubusercontent.com/95852974/147569693-91f0af64-2651-4b68-9185-89bfff0d2d22.jpg)
-![7](https://user-images.githubusercontent.com/95852974/147569700-dedbec56-21ea-4f37-943e-222b8d470c96.jpg)
-![8](https://user-images.githubusercontent.com/95852974/147569703-2b763bbc-630c-4f5b-bcf8-87e2d665a007.jpg)
+
 
 
