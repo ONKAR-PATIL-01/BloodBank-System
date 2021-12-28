@@ -1,3 +1,4 @@
+
 # BloodBank-System
     
     In this project which is Blood bank management system 
@@ -13,5 +14,14 @@ We have following features
 1.	Admin can only get the information.
 2.  Any individual can easily use this app.
 3. Users can see the availability of blood any time
+
+![1](https://user-images.githubusercontent.com/95852974/147569664-6dd6ce24-cc1d-4ea9-a345-c479418261e0.jpg)
+![2](https://user-images.githubusercontent.com/95852974/147569669-52c25150-1090-4296-9560-a967ebf73bfe.jpg)
+![3](https://user-images.githubusercontent.com/95852974/147569672-07b78140-5068-4744-81bc-391a484c1d40.jpg)
+![4](https://user-images.githubusercontent.com/95852974/147569677-50790aa8-268a-4ef5-88ce-80c48be8131e.jpg)
+![5](https://user-images.githubusercontent.com/95852974/147569682-4a738d7d-7b26-4706-bbb0-43340ef30ad4.jpg)
+![6](https://user-images.githubusercontent.com/95852974/147569693-91f0af64-2651-4b68-9185-89bfff0d2d22.jpg)
+![7](https://user-images.githubusercontent.com/95852974/147569700-dedbec56-21ea-4f37-943e-222b8d470c96.jpg)
+![8](https://user-images.githubusercontent.com/95852974/147569703-2b763bbc-630c-4f5b-bcf8-87e2d665a007.jpg)
 
 
