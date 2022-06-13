@@ -1,9 +1,9 @@
 
 # BloodBank-System
     
-    In this project which is Blood bank management system 
-    we are offering a service to all peoples of blood means
-    anyone who want to donate of take blood they can get it in an easy way
+    In this project 
+    we are offering a service to all peoples for blood, those 
+    who want to donate or take blood they can get it in an easy way
     We used Firebase database which is a global platform for 
     storing data so that we can use this app globally we just
     require the internet connection for getting blood using this app.
