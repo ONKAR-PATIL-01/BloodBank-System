@@ -1,19 +1,12 @@
 
 # BloodBank-System
     
-    In this project 
-    we are offering a service to all peoples for blood, those 
-    who want to donate or take blood they can get it in an easy way
-    We used Firebase database which is a global platform for 
-    storing data so that we can use this app globally we just
-    require the internet connection for getting blood using this app.
-    For this we are manually giving them a username and password
-    by recognizing their identity for authentication.
+The main objective of the Blood Bank Management System is to manage the details of Blood ,Donor,Blood Group,Blood Bank,Stock. It manages all the information about Blood , Blood Cell, Stock, Blood . The project is totally built at administrative end and thus only the administrator is guaranteed the access.
 
 We have following features
 1.	Admin can only get the information.
 2.  Any individual can easily use this app.
-3. Users can see the availability of blood any time
+3.  Users can see the availability of blood any time
 
 <!-- ![1](https://user-images.githubusercontent.com/95852974/147569664-6dd6ce24-cc1d-4ea9-a345-c479418261e0.jpg)
 ![2](https://user-images.githubusercontent.com/95852974/147569669-52c25150-1090-4296-9560-a967ebf73bfe.jpg)
